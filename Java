@@ -1,0 +1,4 @@
+public static main method(String[] args){
+
+     System.out.println("Ganesh");
+}
